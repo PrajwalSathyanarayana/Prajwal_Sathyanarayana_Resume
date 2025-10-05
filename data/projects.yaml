@@ -1,0 +1,21 @@
+projects:
+- title: "English Premier League Weather & Match Outcome Analysis"
+  subtitle: "Data Visualization & Correlation Study"
+  details: |
+    • Increased data accessibility by 40% by transforming complex datasets into clear, engaging visualizations for analysts and non-technical stakeholders  
+    • Developed interactive dashboards analyzing 250+ Premier League matches by integrating weather conditions, betting odds, and team performance trends  
+    • Identified significant correlations between environmental factors and match outcomes to support predictive insights
+
+- title: "Predictive Modeling for Financial Markets"
+  subtitle: "Stock Price Prediction - Apple Inc."
+  details: |
+    • Designed and trained a linear regression model for analyzing Apple’s stock price trends, achieving an R² value of 76.5%  
+    • Evaluated model performance using Mean Squared Error and R² metrics, and validated predictions with historical asset data  
+    • Demonstrated strong predictive capability through feature engineering and consistent model performance
+
+- title: "Patient Image Recognition and Medicine Dispensing System"
+  subtitle: "ML & IoT Integration"
+  details: |
+    • Implemented a facial recognition module using a pre-trained Caffe model with 1000 images/person across a 4-person dataset  
+    • Optimized the facial ID process to improve recognition efficiency and enhance user experience with fast, reliable detection  
+    • Developed a prototype system for personalized and secure medicine dispensing in healthcare environments

@@ -1,0 +1,35 @@
+- company: University of Arizona
+  roles:
+    - role: Graduate Student Researcher - ACT Lab
+      date: Jan 2025 - July 2025
+      details: |
+        • Built RL algorithms for surgical robots, enabling precise soft tissue simulation and autonomous suturing  
+        • Integrated Meta RL frameworks (MetaBox, Black-DROPS) into AMBF and dVRL, improving convergence and adaptability  
+        • Automated model evaluation, boosting training stability by 15% via loss/reward trend analysis  
+        • Optimized simulation setups with GPU acceleration and debugging for large-scale RL experiments  
+
+- company: Cognizant
+  roles:
+    - role: Data Scientist
+      date: Nov 2023 - July 2024
+      details: |
+        • Developed a Credit Risk Prediction Model that achieved an AUC-ROC score of 0.92, improving default risk detection by 18%  
+        • Engineered 30+ features, including DTI, Credit Utilization, and LTV, improving model precision by 12%  
+        • Trained and deployed ML models on AWS SageMaker, reducing inference latency by 30%  
+        • Designed Power BI dashboard for credit risk analysis, enabling 25% faster data-driven decisions  
+
+    - role: Jr. Data Scientist
+      date: July 2022 - Oct 2023
+      details: |
+        • Developed predictive analytics models using Python (Scikit-learn, XGBoost, LightGBM), reducing forecasting errors by 22%  
+        • Designed and implemented revenue forecasting using Prophet, ARIMA, and XGBoost, improving predictions by 14%  
+        • Engineered 25+ time series features boosting model accuracy by 11%  
+        • Conducted A/B testing on forecasting strategies with 95% confidence level  
+
+    # - role: Intern
+    #   date: Feb 2022 - June 2022
+    #   details: |
+    #     • Optimized SQL queries in Snowflake, reducing data processing time by 40%  
+    #     • Developed scalable ETL framework processing 500K+ daily transactions  
+    #     • Built Power BI dashboards used by 30+ stakeholders  
+    #     • Designed role-based dashboards with dynamic RLS for secure access  

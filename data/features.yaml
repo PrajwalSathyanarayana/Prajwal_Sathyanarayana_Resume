@@ -1,0 +1,64 @@
+about:
+  name: Prajwal Sathyanarayana
+  tagline: Data Scientist
+  phone: "520-609-6114"
+  email: prajwals@arizona.edu
+  links:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/prajwals21 # Replace with your actual LinkedIn URL
+      icon: fab fa-linkedin
+    - title: GitHub
+      url: https://github.com/PrajwalSathyanarayana # Replace with your actual GitHub URL
+      icon: fab fa-github
+  details: |
+    I am a Master's in Data Science student at the University of Arizona with prior experience as a Data Scientist at Cognizant and a background in Computer Science from Dayananda Sagar University. 
+    My interests lie in deep learning, machine learning, and data science, and I've held leadership roles in IEEE student branches while also contributing to international research in areas like IoT, robotics, and algorithms. 
+    I'm a dedicated, collaborative professional with a strong passion for learning and technology.
+
+skills:
+  - groupName: Programming Languages
+    list:
+      - Python - SQL - R - C - Java - C++ - HTML - CSS
+
+  - groupName: Frameworks & Libraries
+    list:
+      - Pandas - NumPy - Scikit-Learn - Matplotlib - Seaborn - Plotly
+      - SciPy - TensorFlow - PyTorch - XGBoost - SHAP - LIME
+
+  - groupName: Tools & Platforms
+    list:
+      - VS Code - Git - Power BI - Docker - Apache Spark - Snowflake
+      - AWS SageMaker - AWS Lambda - Amazon RDS
+
+interests:
+  - Machine Learning
+  - Deep Learning
+  - Data Science
+  - Robotics
+  - Algorithms
+  - Research & Publications
+
+languages:
+  - name: English
+    level: Professional
+
+
+awards:
+  - title: IEEE Xtreme 15.0 Ambassador
+    date: Jun 2021 - Oct 2021
+    subtitle: "Representative for IEEE DSU Student Branch in International Programming Competition"
+  
+  - title: IEEE Student Leadership Roles
+    date: Sep 2020 - Jun 2022
+    subtitle: "Vice-Chair of IEEE DSU SB, Chair of IEEE TEMS DSU SB"
+
+certificates:
+  - title: "AZ-900: Microsoft Azure Fundamentals"
+    subtitle: Microsoft
+    date: "March 2023"
+    link: https://www.credly.com/badges/f852e6cd-e9f7-4023-b870-d5ece743d746/linked_in_profile
+
+  - title: "DP-900: Microsoft Azure Data Fundamentals"
+    subtitle: Microsoft
+    date: "May 2023"
+    link: https://www.credly.com/badges/69e0b7c6-6f9b-428b-9943-af6de79ae77a/linked_in_profile

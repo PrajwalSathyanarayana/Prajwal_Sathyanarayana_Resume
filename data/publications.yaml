@@ -1,0 +1,39 @@
+- authors:
+    - last_name: Sathyanarayana
+      first_name: Prajwal
+  date: "03 March 2023"
+  title: "Automatic Medication Dispensing System using Machine Learning, IoT and Cloud Computing"
+  conference: "IEEE CENTCON 2022"
+  # page: "-"
+  
+- authors:
+    - last_name: Sathyanarayana
+      first_name: Prajwal
+  date: "13 June 2022"
+  title: "Analysis of Technologies Used in Automatic Medicine Dispensing Systems"
+  conference: "IEEE ICDCECE 2022"
+  # page: "-"
+
+- authors:
+    - last_name: Sathyanarayana
+      first_name: Prajwal
+  date: "13 June 2022"
+  title: "Social Interaction and Service Robot for Hospital Wards"
+  conference: "IEEE ICDCECE 2022"
+  # page: "-"
+
+- authors:
+    - last_name: Sathyanarayana
+      first_name: Prajwal
+  date: "03 February 2022"
+  title: "Automatic Exam Answer Checker using Optical Character Recognition and Sentence Embedding"
+  conference: "IEEE CENTCON 2021"
+  # page: "-"
+
+- authors:
+    - last_name: Sathyanarayana
+      first_name: Prajwal
+  date: "29 October 2021"
+  title: "Navigation System using A*"
+  conference: "IEEE RTEICT 2021"
+  # page: "-"
